@@ -1,0 +1,44 @@
+.banner {
+    background-color: #495E56;
+    color: white;
+
+    padding: 2rem 12rem;
+}
+
+.info h1 {
+    color: #F4CE14;
+}
+
+.info button {
+    background-color: #F4CE14;
+    color: black;
+
+    border: black;
+
+    padding: 1rem 2rem;
+    margin-top: 2rem;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+}
+
+.img img {
+    border-radius: 4px;
+
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 1200px) {
+    .banner {
+        padding: 2rem 4rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .info {
+        margin-bottom: 2rem;
+    }
+}
