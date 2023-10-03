@@ -12,6 +12,27 @@ h2 {
     margin-bottom: 0rem;
 }
 
+h3 {
+    font-family: 'Markazi Text';
+    font-size: 32px;
+
+    margin-bottom: 0rem;
+}
+
+h4 {
+    font-family: 'Markazi Text';
+    font-size: 24px;
+
+    margin-bottom: 0rem;
+}
+
+h5 {
+    font-family: 'Markazi Text';
+    font-size: 24px;
+
+    margin-bottom: 0rem;
+}
+
 body {
     font-family: 'Lato';
     font-size: 18px;
